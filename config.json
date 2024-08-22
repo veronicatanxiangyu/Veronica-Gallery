@@ -5,7 +5,7 @@
       "height": 4000,
       "path": "./photos/Graduation Season/DSC_1414.jpg",
       "compressed_path": "./photos/Graduation Season/DSC_1414.min.jpg",
-      "compressed": true,
+      "compressed": false,
       "placeholder_path": "./photos/Graduation Season/DSC_1414.placeholder.jpg"
     },
     {
@@ -13,7 +13,7 @@
       "height": 6000,
       "path": "./photos/Graduation Season/DSC_1422.jpg",
       "compressed_path": "./photos/Graduation Season/DSC_1422.min.jpg",
-      "compressed": true,
+      "compressed": false,
       "placeholder_path": "./photos/Graduation Season/DSC_1422.placeholder.jpg"
     },
     {
@@ -21,7 +21,7 @@
       "height": 4000,
       "path": "./photos/Graduation Season/DSC_1451.jpg",
       "compressed_path": "./photos/Graduation Season/DSC_1451.min.jpg",
-      "compressed": true,
+      "compressed": false,
       "placeholder_path": "./photos/Graduation Season/DSC_1451.placeholder.jpg"
     },
     {
@@ -29,7 +29,7 @@
       "height": 4000,
       "path": "./photos/Graduation Season/DSC_1453.jpg",
       "compressed_path": "./photos/Graduation Season/DSC_1453.min.jpg",
-      "compressed": true,
+      "compressed": false,
       "placeholder_path": "./photos/Graduation Season/DSC_1453.placeholder.jpg"
     },
     {
@@ -37,7 +37,7 @@
       "height": 6000,
       "path": "./photos/Graduation Season/DSC_1458.jpg",
       "compressed_path": "./photos/Graduation Season/DSC_1458.min.jpg",
-      "compressed": true,
+      "compressed": false,
       "placeholder_path": "./photos/Graduation Season/DSC_1458.placeholder.jpg"
     },
     {
@@ -45,7 +45,7 @@
       "height": 4000,
       "path": "./photos/Graduation Season/DSC_1472.jpg",
       "compressed_path": "./photos/Graduation Season/DSC_1472.min.jpg",
-      "compressed": true,
+      "compressed": false,
       "placeholder_path": "./photos/Graduation Season/DSC_1472.placeholder.jpg"
     },
     {
@@ -53,7 +53,7 @@
       "height": 3985,
       "path": "./photos/Graduation Season/DSC_1516.jpg",
       "compressed_path": "./photos/Graduation Season/DSC_1516.min.jpg",
-      "compressed": true,
+      "compressed": false,
       "placeholder_path": "./photos/Graduation Season/DSC_1516.placeholder.jpg"
     },
     {
@@ -61,7 +61,7 @@
       "height": 4000,
       "path": "./photos/Graduation Season/DSC_1534.jpg",
       "compressed_path": "./photos/Graduation Season/DSC_1534.min.jpg",
-      "compressed": true,
+      "compressed": false,
       "placeholder_path": "./photos/Graduation Season/DSC_1534.placeholder.jpg"
     },
     {
@@ -69,7 +69,7 @@
       "height": 1706,
       "path": "./photos/Graduation Season/Weixin Image_20240819200732.jpg",
       "compressed_path": "./photos/Graduation Season/Weixin Image_20240819200732.min.jpg",
-      "compressed": true,
+      "compressed": false,
       "placeholder_path": "./photos/Graduation Season/Weixin Image_20240819200732.placeholder.jpg"
     }
   ],
@@ -79,7 +79,7 @@
       "height": 1024,
       "path": "./photos/Nature/N-IMG01.jpg",
       "compressed_path": "./photos/Nature/N-IMG01.min.jpg",
-      "compressed": true,
+      "compressed": false,
       "placeholder_path": "./photos/Nature/N-IMG01.placeholder.jpg"
     },
     {
@@ -87,7 +87,7 @@
       "height": 1024,
       "path": "./photos/Nature/N-IMG02.jpg",
       "compressed_path": "./photos/Nature/N-IMG02.min.jpg",
-      "compressed": true,
+      "compressed": false,
       "placeholder_path": "./photos/Nature/N-IMG02.placeholder.jpg"
     },
     {
@@ -95,7 +95,7 @@
       "height": 1023,
       "path": "./photos/Nature/N-IMG03.jpg",
       "compressed_path": "./photos/Nature/N-IMG03.min.jpg",
-      "compressed": true,
+      "compressed": false,
       "placeholder_path": "./photos/Nature/N-IMG03.placeholder.jpg"
     },
     {
@@ -103,7 +103,7 @@
       "height": 1024,
       "path": "./photos/Nature/N-IMG04.jpg",
       "compressed_path": "./photos/Nature/N-IMG04.min.jpg",
-      "compressed": true,
+      "compressed": false,
       "placeholder_path": "./photos/Nature/N-IMG04.placeholder.jpg"
     }
   ],
@@ -113,7 +113,7 @@
       "height": 4022,
       "path": "./photos/Street/IMG01.jpg",
       "compressed_path": "./photos/Street/IMG01.min.jpg",
-      "compressed": true,
+      "compressed": false,
       "placeholder_path": "./photos/Street/IMG01.placeholder.jpg"
     },
     {
@@ -121,7 +121,7 @@
       "height": 1620,
       "path": "./photos/Street/IMG02.jpg",
       "compressed_path": "./photos/Street/IMG02.min.jpg",
-      "compressed": true,
+      "compressed": false,
       "placeholder_path": "./photos/Street/IMG02.placeholder.jpg"
     },
     {
@@ -129,7 +129,7 @@
       "height": 3629,
       "path": "./photos/Street/IMG03.jpg",
       "compressed_path": "./photos/Street/IMG03.min.jpg",
-      "compressed": true,
+      "compressed": false,
       "placeholder_path": "./photos/Street/IMG03.placeholder.jpg"
     }
   ]
