@@ -6,14 +6,11 @@
 title: Veronica's Gallery
 
 # The title on the web page
-full_name: Veronica Tan 
+full_name: Veronica Tan Xiang Yu
 
 # The type of layout
 # Options: ROWS, SQUARES, COLUMNS
 layout_style: ROWS
-
-# Variables below are default. Feel free to customize the values below, but do
-# not remove the property.
 
 # Integer: Spacing between each photo
 spacing: 10
@@ -40,6 +37,12 @@ name: Gallery
 
 # Short description (goes below the title; it will also be used in the RSS feed)
 description: My Photography Portfolio
+
+# Your self-description paragraph
+self_description: >
+  Photography is how I make sense of the world—
+  the intricate beauty in every detail, the composition of objects, the combinations of color, and the play of light. 
+  I’ve learned to appreciate the world even more deeply through my lens, and I hope my photos bring you the same comfort they bring me.
 
 # Your name, as you want it to appear underneath each post and in the footer
 author: Veronica Tan
