@@ -165,6 +165,14 @@
       "compressed_path": "./photos/Tokyo/Tokyo4.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Tokyo/Tokyo4.placeholder.jpg"
+    },
+    {
+      "width": 1080,
+      "height": 1620,
+      "path": "./photos/Tokyo/Tokyo5.jpg",
+      "compressed_path": "./photos/Tokyo/Tokyo5.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Tokyo/Tokyo5.placeholder.jpg"
     }
   ]
 }
