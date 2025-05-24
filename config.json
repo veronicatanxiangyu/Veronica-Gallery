@@ -127,8 +127,8 @@
   ],
   "Tokyo": [
     {
-      "width": 3016,
-      "height": 4022,
+      "width": 1620,
+      "height": 1080,
       "path": "./photos/Tokyo/Tokyo1.jpg",
       "compressed_path": "./photos/Tokyo/Tokyo1.min.jpg",
       "compressed": true,
@@ -143,8 +143,8 @@
       "placeholder_path": "./photos/Tokyo/Tokyo2.placeholder.jpg"
     },
     {
-      "width": 1080,
-      "height": 1620,
+      "width": 3016,
+      "height": 4022,
       "path": "./photos/Tokyo/Tokyo3.jpg",
       "compressed_path": "./photos/Tokyo/Tokyo3.min.jpg",
       "compressed": true,
@@ -159,8 +159,8 @@
       "placeholder_path": "./photos/Tokyo/Tokyo4.placeholder.jpg"
     },
     {
-      "width": 1080,
-      "height": 1620,
+      "width": 3016,
+      "height": 4022,
       "path": "./photos/Tokyo/Tokyo5.jpg",
       "compressed_path": "./photos/Tokyo/Tokyo5.min.jpg",
       "compressed": true,
