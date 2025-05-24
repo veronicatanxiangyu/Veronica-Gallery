@@ -127,8 +127,8 @@
   ],
   "Tokyo": [
     {
-      "width": 1620,
-      "height": 1080,
+      "width": 3016,
+      "height": 4022,
       "path": "./photos/Tokyo/Tokyo1.jpg",
       "compressed_path": "./photos/Tokyo/Tokyo1.min.jpg",
       "compressed": true,
